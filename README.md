@@ -68,9 +68,9 @@ src/
 │   └── resources/
 │       └── application.properties          # Configuração da aplicação
 └── test/
-└── java/                               # Classes de teste
+└── java/                               
 
-
+# Classes de teste
 
 ## Primeiros Passos
 
